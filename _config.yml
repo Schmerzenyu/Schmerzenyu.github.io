@@ -2,11 +2,11 @@
 # Theme Customization #
 #######################
 
-title: 芊芊爸爸的Lab                             # used in <title> tag & site header
+title: Yu's Lab                             # used in <title> tag & site header
 author: Yu Zhengwei                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   有机化学硕士，目前从事车联网Java开发，爱家庭，爱工作
-slogan: 册那老卵！                          # used in site header, beside title
+slogan: Heute! Jetzt!                          # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
