@@ -1,11 +1,8 @@
 ---
-title: Welcome to Solana
-teaser: These sample posts are provided as a template for creating your own content.
-category: intro
-tags: [markdown, workflow, foss]
-reddit_post: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/'
-featured_comments:
-  - url: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/dfkw5k2/'
+title: 类重写hashCode()和equals()的重要性
+teaser: 未重写hashCode()和equals()，导致List的removeAll()方法未得到预期。
+category: tehnique
+tags: [hashCode, equals, List]
 ---
 
 GitHub Pages uses a Markdown engine called <dfn>kramdown</dfn> for formatting text posts. kramdown is a superset of Markdown, meaning:
